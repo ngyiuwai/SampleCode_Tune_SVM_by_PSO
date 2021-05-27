@@ -1,0 +1,3 @@
+See comments in '_modules/search.py'
+
+I will update this project when I have time ...
