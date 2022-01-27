@@ -1,3 +1,4 @@
-See comments in '_modules/search.py'
+**Optimizing gamma and C for sklearn.svm.SVC with Particle Swarm Optimization (PSO). but not grid search/**
 
-I will update this project when I have time ...
+The code works fine...
+Just read the Python notebook.
